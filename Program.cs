@@ -1,10 +1,11 @@
-﻿namespace AdventOfCode2024
+﻿namespace AdventOfCode
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            AdventCalendar calendar = new AdventCalendar();
+            calendar.Run();
         }
     }
 }

@@ -1,4 +1,5 @@
 C:\Users\demon\OneDrive\Documents\GitHub\advent-of-code-24\bin\Debug\net8.0\AdventOfCode2024.exe
+C:\Users\demon\OneDrive\Documents\GitHub\advent-of-code-24\bin\Debug\net8.0\Assets\Day1\input.txt
 C:\Users\demon\OneDrive\Documents\GitHub\advent-of-code-24\bin\Debug\net8.0\AdventOfCode2024.deps.json
 C:\Users\demon\OneDrive\Documents\GitHub\advent-of-code-24\bin\Debug\net8.0\AdventOfCode2024.runtimeconfig.json
 C:\Users\demon\OneDrive\Documents\GitHub\advent-of-code-24\bin\Debug\net8.0\AdventOfCode2024.dll
