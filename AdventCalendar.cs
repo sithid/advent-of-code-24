@@ -76,10 +76,12 @@ namespace AdventOfCode
                 Console.WriteLine("Day 1: Historian Hysteria");
                 Console.WriteLine("Day 1: Part One");
                 Console.WriteLine("Find the distance between the locations from 'input.txt'.");
+                Console.WriteLine();
 
                 List<int> numbersX = new List<int>();
                 List<int> numbersY = new List<int>();
                 List<int> absXY = new List<int>();
+                int distance = 0;
 
                 string[] lines = File.ReadAllLines(fullPath);
 
@@ -105,17 +107,13 @@ namespace AdventOfCode
                     absXY.Add(Math.Abs(numbersX[i] - numbersY[i]));
                 }
 
-                Console.WriteLine("List X and Y parsed from ./Assets/Day1/input.txt");
-
-                int distance = 0;
-
                 for( int i = 0; i < absXY.Count; i++ )
                 {
                     distance += absXY[i];
                 }
 
                 Console.WriteLine($"Total Distance: {distance}");
-                Console.WriteLine("Press any key to continue to part two.");
+                Console.WriteLine();
                 Console.ReadKey();
 
                 DayOnePartTwo( numbersX, numbersY );
@@ -127,6 +125,7 @@ namespace AdventOfCode
             Console.WriteLine("Day 1: Historian Hysteria");
             Console.WriteLine("Day 1: Part Two");
             Console.WriteLine("What is the similarity score of the left and right lists?");
+            Console.WriteLine();
 
             Dictionary<int, int> similarityScores = new Dictionary<int, int>(); // dictionary<number, score>
 
@@ -152,13 +151,15 @@ namespace AdventOfCode
             }
 
             Console.WriteLine($"The similarity score of the two lists is: {similarityScoreTotal}");
-            Console.WriteLine("Press any key to return to the advent menu.");
+            Console.WriteLine("Press any key to continue to the advent menu.");
+            Console.WriteLine();
             Console.ReadKey();
         }
 
         private void NotImplemented()
         {
             Console.WriteLine("The solution to that puzzle has not been implemented.");
+            Console.WriteLine();
             Console.ReadKey();
         }
     }
