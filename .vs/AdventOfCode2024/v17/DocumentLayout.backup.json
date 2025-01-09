@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB4F0FE3-1010-4F6F-9EF2-A90445890C38}|AdventOfCode2024.csproj|c:\\users\\demon\\onedrive\\documents\\github\\advent-of-code-24\\adventcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB4F0FE3-1010-4F6F-9EF2-A90445890C38}|AdventOfCode2024.csproj|solutionrelative:adventcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4F0FE3-1010-4F6F-9EF2-A90445890C38}|AdventOfCode2024.csproj|c:\\users\\demon\\onedrive\\documents\\github\\advent-of-code-24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB4F0FE3-1010-4F6F-9EF2-A90445890C38}|AdventOfCode2024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +22,12 @@
               "Title": "AdventCalendar.cs",
               "DocumentMoniker": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\advent-of-code-24\\AdventCalendar.cs",
               "RelativeDocumentMoniker": "AdventCalendar.cs",
-              "ToolTip": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\advent-of-code-24\\AdventCalendar.cs",
-              "RelativeToolTip": "AdventCalendar.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAHIAAABBAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\advent-of-code-24\\AdventCalendar.cs*",
+              "RelativeToolTip": "AdventCalendar.cs*",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAQwOwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T21:32:45.072Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\advent-of-code-24\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\advent-of-code-24\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T21:14:40.268Z"
             }
           ]
         }

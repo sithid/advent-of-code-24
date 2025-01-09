@@ -14,3 +14,4 @@ C:\Users\demon\OneDrive\Documents\GitHub\advent-of-code-24\obj\Debug\net8.0\refi
 C:\Users\demon\OneDrive\Documents\GitHub\advent-of-code-24\obj\Debug\net8.0\AdventOfCode2024.pdb
 C:\Users\demon\OneDrive\Documents\GitHub\advent-of-code-24\obj\Debug\net8.0\AdventOfCode2024.genruntimeconfig.cache
 C:\Users\demon\OneDrive\Documents\GitHub\advent-of-code-24\obj\Debug\net8.0\ref\AdventOfCode2024.dll
+C:\Users\demon\OneDrive\Documents\GitHub\advent-of-code-24\bin\Debug\net8.0\Assets\Day2\input.txt
